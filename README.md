@@ -7,7 +7,7 @@ A sleek, synthwave-inspired theme for the rEFInd boot manager, featuring vibrant
 
 rEFInd-Synthwave is a custom visual theme for [rEFInd](https://www.rodsbooks.com/refind/), a customizable boot manager for UEFI-based systems. This theme transforms the standard boot experience with a stunning synthwave aesthetic, combining nostalgic 80s-inspired neon colors with modern design.
 
-## Prerequisites
+### Prerequisites
 
 Before installing this theme, ensure you have:
 
